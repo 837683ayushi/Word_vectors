@@ -1,0 +1,1 @@
+This is the code for making word vectors from GOT.. We have used 5 books in the Game of Thrones series to create a set of word vectors. We'll use them to the find the similarity between words, map them out in 2D space, and analyze them.
